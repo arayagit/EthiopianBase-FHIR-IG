@@ -13,7 +13,7 @@ This is an empty framework, to be used to create SMART Implementation Guides.
 
 CI Build: 
 * http://build.fhir.org/ig/arayagit/EthiopianBase-FHIRIG
-* http://{owner}.github.io/{repo}
+* http://arayagit.github.io/EthiopianBase-FHIRIG
 
 
 Please see these [instructions](https://smart.who.int/ig-starter-kit/ig_setup.html#github-setup)
